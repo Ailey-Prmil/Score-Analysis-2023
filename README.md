@@ -8,11 +8,12 @@
 - Which subject in the science group (Vat_ly, Hoa_hoc, Sinh_hoc) do students perform best? (1) (2)
 - Which subject in the social science group (Lich_su, Dia_ly, GDCD) do students perform best? (1) (2)
 - The proportion of students by group of performance (1) (2) (3)
-  + Excellent (8 - 10)
-  + Great (6 - 8)
-  + Average (4 - 6)
-  + Under average (2 - 4)
-  + Not qualified (0 - 2)
+
+  > + Excellent (8 - 10)
+  > + Great (6 - 8)
+  > + Average (4 - 6)
+  > + Under average (2 - 4)
+  > + Not qualified (0 - 2)
 - The mean, median of score students get by area, subject (1) (2) (3)
 > This can be divided into categories:
 > 1. Overview
