@@ -1,0 +1,69 @@
+COl: toan have 18687 missing values
+COl: ngu_van have 13821 missing values
+COl: ngoai_ngu have 141063 missing values
+COl: vat_li have 694871 missing values
+COl: hoa_hoc have 693942 missing values
+COl: sinh_hoc have 697435 missing values
+COl: lich_su have 338613 missing values
+COl: dia_li have 339926 missing values
+COl: gdcd have 456608 missing values
+COl: ma_ngoai_ngu have 141063 missing values
+---------- AFTER MODIFICATION ----------
+COl: toan have 14211 missing values
+COl: ngu_van have 9345 missing values
+COl: ngoai_ngu have 136587 missing values
+COl: vat_li have 690395 missing values
+COl: hoa_hoc have 689466 missing values
+COl: sinh_hoc have 692959 missing values
+COl: lich_su have 334137 missing values
+COl: dia_li have 335450 missing values
+COl: gdcd have 452132 missing values
+COl: ma_ngoai_ngu have 136587 missing values
+
+Overview of students who choose participate in khxh: 
+          toan  ngu_van  ngoai_ngu  vat_li  hoa_hoc  sinh_hoc  lich_su  dia_li  gdcd ma_ngoai_ngu
+sbd                                                                                              
+1000001    8.4     8.50        9.2     NaN      NaN       NaN     6.75    6.00  9.00           N1
+1000002    7.2     8.50        9.2     NaN      NaN       NaN     8.75    6.50  8.50           N1
+1000003    NaN     6.50        NaN     NaN      NaN       NaN     9.25    7.50   NaN          NaN
+1000004    7.8     8.25        7.8     NaN      NaN       NaN     4.50    6.25  8.25           N1
+1000005    7.2     8.00        7.8     NaN      NaN       NaN     4.75    6.75  8.25           N1
+...        ...      ...        ...     ...      ...       ...      ...     ...   ...          ...
+64006930   8.0     5.75        4.8     NaN      NaN       NaN     8.25    7.50  8.50           N1
+64006933   7.8     6.75        5.4     NaN      NaN       NaN     8.50    7.75  9.75           N1
+64006935   6.4     7.00        3.0     NaN      NaN       NaN     5.50    5.75  7.25           N1
+64006936   6.6     7.00        5.8     NaN      NaN       NaN     6.50    6.50  9.25           N1
+64006937   NaN     5.00        NaN     NaN      NaN       NaN     4.25    4.75   NaN          NaN
+
+[688154 rows x 10 columns]
+
+Overview of students who choose participate in khtn: 
+          toan  ngu_van  ngoai_ngu  vat_li  hoa_hoc  sinh_hoc  lich_su  dia_li  gdcd ma_ngoai_ngu
+sbd                                                                                              
+1000008    7.2     7.50        6.0    5.00     3.50      1.75      NaN     NaN   NaN           N1
+1000011    5.6     7.00        8.4    5.75     3.50      4.50      NaN     NaN   NaN           N1
+1000013    7.4     5.75        8.0    8.00     3.75      5.75      NaN     NaN   NaN           N1
+1000015    8.2     8.50        9.2    5.75     7.50      7.75      NaN     NaN   NaN           N1
+1000017    7.4     7.75        6.6    3.00     6.50      6.75      NaN     NaN   NaN           N1
+...        ...      ...        ...     ...      ...       ...      ...     ...   ...          ...
+64006911   7.4     8.50        4.6    6.25     5.75      7.25      NaN     NaN   NaN           N1
+64006925   6.4     7.50        6.2    7.00     6.25      6.75      NaN     NaN   NaN           N1
+64006931   7.4     7.25        5.4    6.75     6.75      6.00      NaN     NaN   NaN           N1
+64006932   6.6     7.75        6.0    5.75     7.00      8.25      NaN     NaN   NaN           N1
+64006934   7.4     7.50        6.0    6.00     5.75      6.25      NaN     NaN   NaN           N1
+
+[333771 rows x 10 columns]
+
+
+Checking if there are any missing values: 
+
+COl: toan have 0 missing values
+COl: ngu_van have 0 missing values
+COl: ngoai_ngu have 0 missing values
+COl: vat_li have 0 missing values
+COl: hoa_hoc have 0 missing values
+COl: sinh_hoc have 0 missing values
+COl: lich_su have 0 missing values
+COl: dia_li have 0 missing values
+COl: gdcd have 0 missing values
+COl: ma_ngoai_ngu have 0 missing values
