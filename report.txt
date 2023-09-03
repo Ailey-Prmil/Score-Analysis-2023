@@ -55,7 +55,7 @@ sbd
 [333771 rows x 10 columns]
 
 
-Checking if there are any missing values: 
+Checking if there are any missing values (any missing data will be replaced with '0'): 
 
 COl: toan have 0 missing values
 COl: ngu_van have 0 missing values
