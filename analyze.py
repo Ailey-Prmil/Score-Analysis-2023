@@ -42,4 +42,32 @@ def q4(diem_full):
         print (f"- {index} có số lượng đăng ký là: ***{count[index]}***")
         print (f"\t> Điểm TB học sinh đạt được: {avg}")
 
-print (diem_full.value_counts("gdcd")[0.0])
+#question 7
+mon_hoc = ["toan","ngu_van","ngoai_ngu"]
+khoi_khtn = ["vat_li", "hoa_hoc", "sinh_hoc"]
+khoi_khxh = ["lich_su", "dia_li", "gdcd"]
+def find_med_avg(mon_hoc, data):
+    for i in mon_hoc:
+        avg_mon = data[i].mean()
+        med_mon = data[i].median()
+        print (f"Điểm trung bình học sinh đạt được trong môn {i}: {avg_mon}")
+        print (f"Trung vị điểm đạt được của môn {i}: {med_mon}")
+
+# Question 8
+def max_score(mon_hoc, data):
+    for i in mon_hoc:
+        print (f"- Số lượng học sinh đạt điểm 10 môn {i}: {data.value_counts(i)[10.0]}")
+
+# Questionn 9:
+# Có 2170 thí sinh bỏ thi các toàn bộ môn trong khối nên ko xác định được thi khối nào
+khoi_khtn_rot = (khtn[khoi_khtn+mon_hoc]<=1).any(axis=1).sum()
+khoi_khxh_rot = (khxh[khoi_khxh+mon_hoc]<=1).any(axis=1).sum()
+bo_thi_khoi = 2170 # tinh tu file report.txt
+bo_thi_toan_bo = 4476
+
+tong_thi_sinh = len(diem_full.index)+ bo_thi_toan_bo
+
+rot_tot_nghiep = khoi_khtn_rot+khoi_khxh_rot+ bo_thi_khoi+ bo_thi_toan_bo
+print (rot_tot_nghiep)
+print ((rot_tot_nghiep/tong_thi_sinh)*100)
+

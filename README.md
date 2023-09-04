@@ -245,19 +245,55 @@
 - GDCD: 122702 (học sinh)
 ---
 ### 7. Trung bình và trung vị số điểm mà học sinh đạt được theo từng môn học.
+- Điểm trung bình học sinh đạt được trong môn Toán: 6.1632657353103
+
+  Trung vị điểm đạt được của môn Toán: 6.6
+- Điểm trung bình học sinh đạt được trong môn Ngữ văn: 6.795211579584586
+
+  Trung vị điểm đạt được của môn Ngữ văn: 7.0
+- Điểm trung bình học sinh đạt được trong môn Ngoại ngữ: 4.729208792591079
+  
+  Trung vị điểm đạt được của môn Ngoại ngữ: 4.8
+- Điểm trung bình học sinh đạt được trong môn Vật lý: 6.529179947181495
+  
+  Trung vị điểm đạt được của môn Vật lý: 6.75
+- Điểm trung bình học sinh đạt được trong môn Hóa học: 6.717784506571958
+  
+  Trung vị điểm đạt được của môn Hóa học: 7.0
+- Điểm trung bình học sinh đạt được trong môn Sinh học: 6.301657408250614
+  
+  Trung vị điểm đạt được của môn Sinh học: 6.5
+- Điểm trung bình học sinh đạt được trong môn Lịch sử: 6.022404151427364
+  
+  Trung vị điểm đạt được của môn Lịch sử: 6.0
+- Điểm trung bình học sinh đạt được trong môn Địa lý: 6.132428383198331
+  
+  Trung vị điểm đạt được của môn Địa lý: 6.25
+- Điểm trung bình học sinh đạt được trong môn GDCD: 6.851616962532154
+  
+  Trung vị điểm đạt được của môn GDCD: 8.25
 ---
 ### 8. Số lượng học sinh đạt điểm tuyệt đối theo từng môn học.
+- Số lượng học sinh đạt điểm 10 môn Toán: **12**
+- Số lượng học sinh đạt điểm 10 môn Ngữ văn: **1**
+- Số lượng học sinh đạt điểm 10 môn Ngoại ngữ: **555**
+- Số lượng học sinh đạt điểm 10 môn Vật lý: **70**
+- Số lượng học sinh đạt điểm 10 môn Hóa học: **137**
+- Số lượng học sinh đạt điểm 10 môn Sinh học: **135**
+- Số lượng học sinh đạt điểm 10 môn Lịch sử: **789**
+- Số lượng học sinh đạt điểm 10 môn Địa lý: **35**
+- Số lượng học sinh đạt điểm 10 môn GDCD: **14693**
 ---
-### 9. Số lượng học sinh rớt kỳ thi tốt nghiệp 
-  > Các điều kiện để đậu kỳ thi tốt nghiệp: không có bất kỳ môn nào dưới 2 điểm.
----
-### 10. Phổ điểm của học sinh theo từng môn học (khoảng điểm: 1)
+### 9. Số lượng học sinh có điểm liệt kỳ thi tốt nghiệp 
+  > Điểm liệt: từ 1 điểm trở xuống
+Số lượng thí sinh có ít nhất một điểm liệt: 147232 (đã bao gồm các thí sinh bỏ thi...)
 
+Tỷ lệ học sinh có điểm liệt: 14,405%
 ## Graphs and Charts
 1. So sánh số lượng học sinh bỏ thi, số lượng học sinh đăng ký thi KHTN và KHXH và tổng số lượng đăng ký
 2. Tỷ lệ bỏ thi theo các tỉnh thành
 3. Tỷ lệ bỏ thi theo các môn 
-4. Phổ điểm của học sinh theo từng môn học
+4. Phổ điểm của học sinh theo từng môn học (khoarng điểm: 1)
 5. Phổ điểm theo khối thi (A0, A1, B0)
   - Điểm được tính bằng cách cộng điểm cả 3 môn trong khối
   - Có kèm theo điểm của thủ khoa và số lượng người đạt điển đấy
