@@ -62,7 +62,7 @@ def max_score(mon_hoc, data):
 # Có 2170 thí sinh bỏ thi các toàn bộ môn trong khối nên ko xác định được thi khối nào
 khoi_khtn_rot = (khtn[khoi_khtn+mon_hoc]<=1).any(axis=1).sum()
 khoi_khxh_rot = (khxh[khoi_khxh+mon_hoc]<=1).any(axis=1).sum()
-bo_thi_khoi = 2170 # tinh tu file report.txt
+bo_thi_khoi = 4340 # tinh tu file report.txt
 bo_thi_toan_bo = 4476
 
 tong_thi_sinh = len(diem_full.index)+ bo_thi_toan_bo
