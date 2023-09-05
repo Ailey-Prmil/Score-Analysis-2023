@@ -292,8 +292,7 @@ Tỷ lệ học sinh có điểm liệt: 14,618%
 ## Graphs and Charts
 1. So sánh số lượng học sinh bỏ thi, số lượng học sinh đăng ký thi KHTN và KHXH và tổng số lượng đăng ký
 
-<img><iframe title="Khối thi của học sinh trong kỳ thi THPTQG Việt Nam (2023)" aria-label="Stacked Bars" id="datawrapper-chart-15V1Q" src="https://datawrapper.dwcdn.net/15V1Q/1/" scrolling="no" frameborder="0" style="border: none;" width="550" height="263" data-external="1"></iframe></img>
-
+<div style="min-height:263px"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/15V1Q/embed.js?v=1" charset="utf-8"></script><noscript><img src="https://datawrapper.dwcdn.net/15V1Q/full.png" alt="" /></noscript></div>
 
 2. Tỷ lệ bỏ thi theo các tỉnh thành
 3. Tỷ lệ bỏ thi theo các môn 
