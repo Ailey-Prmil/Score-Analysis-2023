@@ -286,11 +286,14 @@
 ---
 ### 9. Số lượng học sinh có điểm liệt kỳ thi tốt nghiệp 
   > Điểm liệt: từ 1 điểm trở xuống
-Số lượng thí sinh có ít nhất một điểm liệt: 147232 (đã bao gồm các thí sinh bỏ thi...)
+Số lượng thí sinh có ít nhất một điểm liệt: 149402 (đã bao gồm các thí sinh bỏ thi...)
 
-Tỷ lệ học sinh có điểm liệt: 14,405%
+Tỷ lệ học sinh có điểm liệt: 14,618%
 ## Graphs and Charts
 1. So sánh số lượng học sinh bỏ thi, số lượng học sinh đăng ký thi KHTN và KHXH và tổng số lượng đăng ký
+
+<div style="min-height:263px"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/15V1Q/embed.js?v=1" charset="utf-8"></script><noscript><img src="https://datawrapper.dwcdn.net/15V1Q/full.png" alt="" /></noscript></div>
+
 2. Tỷ lệ bỏ thi theo các tỉnh thành
 3. Tỷ lệ bỏ thi theo các môn 
 4. Phổ điểm của học sinh theo từng môn học (khoarng điểm: 1)
